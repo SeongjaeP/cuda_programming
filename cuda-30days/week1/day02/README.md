@@ -15,7 +15,7 @@
 
 ## 🧱 CUDA Thread-Hierarchy 구조
 
-![CUDA Grid-Block-Thread 구조](./images/cuda_grid_block_thread.png)
+![CUDA Grid-Block-Thread 구조](./image/cuda_grid_block_thread.png)
 
 - **Grid**는 여러 개의 Block으로 구성됨
 - **Block**은 여러 Thread를 포함하고 있으며 **Block 내부의 Thread끼리 공유 메모리 공유**
